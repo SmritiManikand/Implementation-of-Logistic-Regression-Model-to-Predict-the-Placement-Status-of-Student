@@ -1,7 +1,7 @@
 # Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student
 
 ## Aim:
-To write a program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
+To write a program to implement the  Logistic Regression Model to Predict the Placement Status of Student.
 
 ## Equipments Required:
 1. Hardware – PCs
@@ -19,7 +19,7 @@ To write a program to implement the the Logistic Regression Model to Predict the
 ## Program:
 ```
 /*
-Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
+Program to implement the Logistic Regression Model to Predict the Placement Status of Student.
 Developed by: Smriti M
 RegisterNumber: 212221040157
 */
