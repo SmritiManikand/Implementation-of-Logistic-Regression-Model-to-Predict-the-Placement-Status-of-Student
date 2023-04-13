@@ -79,7 +79,29 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 
 ## Output:
+![s1](https://user-images.githubusercontent.com/113674204/231648649-33f7653d-1911-4ba3-91da-3e9356a138f2.png)
 
+![s2](https://user-images.githubusercontent.com/113674204/231648766-c04dabd7-2e6a-4468-8a81-f06cfa522da4.png)
+
+![s3](https://user-images.githubusercontent.com/113674204/231648812-72501394-b313-4fdd-ac86-a24d01d8c91d.png)
+
+![s4](https://user-images.githubusercontent.com/113674204/231648864-7b407d77-f8f7-49b2-a05d-281b5b945041.png)
+
+![s5](https://user-images.githubusercontent.com/113674204/231648946-47753b98-57e8-451e-abbd-276008a522d8.png)
+
+![s6](https://user-images.githubusercontent.com/113674204/231649034-e47148c0-ad9c-4054-bebb-7f829040c6ca.png)
+
+![s7](https://user-images.githubusercontent.com/113674204/231649135-14c5c342-5e42-455a-ac6f-27766be40fa2.png)
+
+![s8](https://user-images.githubusercontent.com/113674204/231649242-a6327390-6a81-4dbf-b9b3-31b70d4c727d.png)
+
+![s9](https://user-images.githubusercontent.com/113674204/231649297-ce66d699-a122-47de-9c44-d8d4f94010e1.png)
+
+![s10](https://user-images.githubusercontent.com/113674204/231649352-cbff8b74-3fbc-46bf-95b9-7bd8139e9de3.png)
+
+![s11](https://user-images.githubusercontent.com/113674204/231649409-913bd15b-c552-4690-a584-570be55c729d.png)
+
+![s12](https://user-images.githubusercontent.com/113674204/231649475-158f4706-b083-4431-879f-5642bd6903af.png)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
