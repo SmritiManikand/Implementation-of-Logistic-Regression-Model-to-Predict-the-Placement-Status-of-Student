@@ -102,27 +102,25 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ## Data status
 
-![s6](https://user-images.githubusercontent.com/113674204/231649034-e47148c0-ad9c-4054-bebb-7f829040c6ca.png)
+![s7](https://user-images.githubusercontent.com/113674204/231649135-14c5c342-5e42-455a-ac6f-27766be40fa2.png)
 
 ## Y-prediction array
 
-![s7](https://user-images.githubusercontent.com/113674204/231649135-14c5c342-5e42-455a-ac6f-27766be40fa2.png)
+![s8](https://user-images.githubusercontent.com/113674204/231649242-a6327390-6a81-4dbf-b9b3-31b70d4c727d.png)
 
 ## Accuracy value
 
-![s8](https://user-images.githubusercontent.com/113674204/231649242-a6327390-6a81-4dbf-b9b3-31b70d4c727d.png)
+![s9](https://user-images.githubusercontent.com/113674204/231649297-ce66d699-a122-47de-9c44-d8d4f94010e1.png)
 
 ## Confusion array
 
-![s9](https://user-images.githubusercontent.com/113674204/231649297-ce66d699-a122-47de-9c44-d8d4f94010e1.png)
+![s10](https://user-images.githubusercontent.com/113674204/231649352-cbff8b74-3fbc-46bf-95b9-7bd8139e9de3.png)
 
 ## Classification report
 
-![s10](https://user-images.githubusercontent.com/113674204/231649352-cbff8b74-3fbc-46bf-95b9-7bd8139e9de3.png)
+![s11](https://user-images.githubusercontent.com/113674204/231649409-913bd15b-c552-4690-a584-570be55c729d.png)
 
 ## Prediction of LR
-
-![s11](https://user-images.githubusercontent.com/113674204/231649409-913bd15b-c552-4690-a584-570be55c729d.png)
 
 ![s12](https://user-images.githubusercontent.com/113674204/231649475-158f4706-b083-4431-879f-5642bd6903af.png)
 
