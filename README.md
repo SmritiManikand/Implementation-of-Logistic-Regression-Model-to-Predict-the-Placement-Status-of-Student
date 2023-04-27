@@ -84,7 +84,7 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ![s1](https://user-images.githubusercontent.com/113674204/231648649-33f7653d-1911-4ba3-91da-3e9356a138f2.png)
 
-## Salary Data
+## Salary data
 
 ![s2](https://user-images.githubusercontent.com/113674204/231648766-c04dabd7-2e6a-4468-8a81-f06cfa522da4.png)
 
